@@ -1,0 +1,6 @@
+B = 5
+L = 5
+H = 5
+a = 5
+print(B*L*H)
+print(B*H)
